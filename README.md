@@ -7,9 +7,6 @@
 
 hi, i'm [Riyan Kurniawan] a passionate self-taught full stack web developer and a freelance software engineer from Indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/drnitros/drnitros/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:m.riyan.kurniawan@gmail.com) :)
